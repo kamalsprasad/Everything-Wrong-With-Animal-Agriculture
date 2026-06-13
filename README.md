@@ -13,9 +13,21 @@ The goal of this document is to curate the scientific evidence and arguments tha
 - ## [Environment](#env)
   - ### [Climate Change](#climate)
   - ### [Land Use & Pollution](#land-use)
+    - ### [We could feed 14.5 billion with today’s cropland. Why aren’t we? | Project Drawdown®](https://drawdown.org/insights/we-could-feed-145-billion-with-todays-cropland-why-arent-we)
+
+      > Using croplands to feed people instead of cows and cars is a triple win for climate, biodiversity, and food security.
+
+      _Tags: **land use, pasture, deforestation, biodiversity, manure, fertilizer, cropland, feed crops**_
+
   - ### [Water Use & Pollution](#water-use)
 - ## [Damage to Communities](#communities)
 - ## [Human Rights & Health](#health)
+    - ### [Brazil labor prosecutors target JBS over beef tied to slavery-like labor | AP News](https://apnews.com/article/brazil-amazon-jbs-forced-labor-b181e2db3967ba285310f48b85ee986b)
+
+      > Brazil's labor prosecutors have filed a lawsuit against meatpacking giant JBS, accusing it of buying cattle from farms where workers were held in slavery-like conditions.
+
+      _Tags: **workers, forced labor, slavery, slavery-like, labor prosecutors, labor prosecutor, workers were held, beef**_
+
 - ## [Non-human Animals](#non-human)
 
   - ### [Farmed Animals](#farmed)
