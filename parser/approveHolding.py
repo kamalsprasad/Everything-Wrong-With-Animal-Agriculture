@@ -134,9 +134,10 @@ def entry_exists_in_readme(readme_text: str, url: str) -> bool:
 
 
 def find_anchor_insertion_index(lines: list[str], anchor: str) -> int:
+    # Only match the real section anchor heading, not the table-of-contents links
+    # such as "- ### [Climate Change](#climate)".
     anchor_patterns = (
         f'name="{anchor}"',
-        f"#{anchor})",
         f"#{anchor}</a>",
     )
     for index, line in enumerate(lines):

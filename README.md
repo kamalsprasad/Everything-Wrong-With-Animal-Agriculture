@@ -13,21 +13,9 @@ The goal of this document is to curate the scientific evidence and arguments tha
 - ## [Environment](#env)
   - ### [Climate Change](#climate)
   - ### [Land Use & Pollution](#land-use)
-    - ### [We could feed 14.5 billion with today’s cropland. Why aren’t we? | Project Drawdown®](https://drawdown.org/insights/we-could-feed-145-billion-with-todays-cropland-why-arent-we)
-
-      > Using croplands to feed people instead of cows and cars is a triple win for climate, biodiversity, and food security.
-
-      _Tags: **land use, pasture, deforestation, biodiversity, manure, fertilizer, cropland, feed crops**_
-
   - ### [Water Use & Pollution](#water-use)
 - ## [Damage to Communities](#communities)
 - ## [Human Rights & Health](#health)
-    - ### [Brazil labor prosecutors target JBS over beef tied to slavery-like labor | AP News](https://apnews.com/article/brazil-amazon-jbs-forced-labor-b181e2db3967ba285310f48b85ee986b)
-
-      > Brazil's labor prosecutors have filed a lawsuit against meatpacking giant JBS, accusing it of buying cattle from farms where workers were held in slavery-like conditions.
-
-      _Tags: **workers, forced labor, slavery, slavery-like, labor prosecutors, labor prosecutor, workers were held, beef**_
-
 - ## [Non-human Animals](#non-human)
 
   - ### [Farmed Animals](#farmed)
@@ -115,6 +103,12 @@ The goal of this document is to curate the scientific evidence and arguments tha
 
   - ### <a name="land-use"></a>Land Use & Pollution
 
+    - ### [We could feed 14.5 billion with today’s cropland. Why aren’t we? | Project Drawdown®](https://drawdown.org/insights/we-could-feed-145-billion-with-todays-cropland-why-arent-we)
+
+      > Using croplands to feed people instead of cows and cars is a triple win for climate, biodiversity, and food security.
+
+      _Tags: **land use, pasture, deforestation, biodiversity, manure, fertilizer, cropland, feed crops**_
+
     - ### [Here’s How America Uses Its Land](https://www.bloomberg.com/graphics/2018-us-land-use/)
 
       ![More than one-third of U.S. land is used for pasture—by far the largest land-use type in the contiguous 48 states.](/images/bloomberg-land_use.jpg)
@@ -172,6 +166,18 @@ The goal of this document is to curate the scientific evidence and arguments tha
     _Tags: **California, North Carolina, San Joaquin Valley, Tulare County, pig farms, dairy**_
 
 - ## <a name="health"></a>Human Rights and Health
+
+    - ### [‘They want to keep denying us our rights’: workers in Vermont’s $5.4bn dairy industry fight for basic labor protections | Vermont | The Guardian](https://www.theguardian.com/environment/2026/apr/15/vermont-dairy-industry-migrant-labor-workers-rights)
+
+      > Migrant labor fuels much of Vermont’s dairy industry, but workers are exempt from minimum wage rules, overtime protections and the right to unionize
+
+      _Tags: **workers, campaign, labor rights, dairy, black, climate, climate crisis, cost**_
+
+    - ### [Brazil labor prosecutors target JBS over beef tied to slavery-like labor | AP News](https://apnews.com/article/brazil-amazon-jbs-forced-labor-b181e2db3967ba285310f48b85ee986b)
+
+      > Brazil's labor prosecutors have filed a lawsuit against meatpacking giant JBS, accusing it of buying cattle from farms where workers were held in slavery-like conditions.
+
+      _Tags: **workers, forced labor, slavery, slavery-like, labor prosecutors, labor prosecutor, workers were held, beef**_
 
   - ### [Plant-based diets and their impact on health, sustainability and the environment](https://apps.who.int/iris/bitstream/handle/10665/349086/WHO-EURO-2021-4007-43766-61591-eng.pdf?sequence=1&isAllowed=y)
 
